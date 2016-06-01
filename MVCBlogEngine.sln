@@ -7,6 +7,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCBlogEngine.UI", "MVCBlog
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCBlogEngine.Core", "MVCBlogEngine.Core\MVCBlogEngine.Core.csproj", "{BFBD0ECD-81F1-4290-AB8F-C83D36E5EFE5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCBlogEngine.Tests", "MVCBlogEngine.Tests\MVCBlogEngine.Tests.csproj", "{8A571890-F1D9-4349-A2BD-74FB152D0671}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCBlogEngine.Database", "MVCBlogEngine.DataModels\MVCBlogEngine.Database.csproj", "{C7DEDDDE-CF94-4622-8EA8-CCC5B935D47D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCBlogEngine.ViewModels", "MVCBlogEngine.ViewModels\MVCBlogEngine.ViewModels.csproj", "{F203E8BF-A3C1-4DEC-8BFF-6B35053194B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCBlogEngine.Repositories", "MVCBlogEngine.Repositories\MVCBlogEngine.Repositories.csproj", "{6A6B7F19-585C-40D3-B9DF-46FA4F48AC70}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +29,22 @@ Global
 		{BFBD0ECD-81F1-4290-AB8F-C83D36E5EFE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BFBD0ECD-81F1-4290-AB8F-C83D36E5EFE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BFBD0ECD-81F1-4290-AB8F-C83D36E5EFE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A571890-F1D9-4349-A2BD-74FB152D0671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A571890-F1D9-4349-A2BD-74FB152D0671}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A571890-F1D9-4349-A2BD-74FB152D0671}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A571890-F1D9-4349-A2BD-74FB152D0671}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7DEDDDE-CF94-4622-8EA8-CCC5B935D47D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7DEDDDE-CF94-4622-8EA8-CCC5B935D47D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7DEDDDE-CF94-4622-8EA8-CCC5B935D47D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7DEDDDE-CF94-4622-8EA8-CCC5B935D47D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F203E8BF-A3C1-4DEC-8BFF-6B35053194B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F203E8BF-A3C1-4DEC-8BFF-6B35053194B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F203E8BF-A3C1-4DEC-8BFF-6B35053194B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F203E8BF-A3C1-4DEC-8BFF-6B35053194B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A6B7F19-585C-40D3-B9DF-46FA4F48AC70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A6B7F19-585C-40D3-B9DF-46FA4F48AC70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A6B7F19-585C-40D3-B9DF-46FA4F48AC70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A6B7F19-585C-40D3-B9DF-46FA4F48AC70}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

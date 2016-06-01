@@ -89,6 +89,5 @@ E:\MyProjects\MVCBlogEngine\MVCBlogEngine.UI\bin\System.Web.Razor.xml
 E:\MyProjects\MVCBlogEngine\MVCBlogEngine.UI\bin\System.Web.WebPages.xml
 E:\MyProjects\MVCBlogEngine\MVCBlogEngine.UI\bin\System.Web.WebPages.Deployment.xml
 E:\MyProjects\MVCBlogEngine\MVCBlogEngine.UI\bin\System.Web.WebPages.Razor.xml
-E:\MyProjects\MVCBlogEngine\MVCBlogEngine.UI\obj\Debug\MVCBlogEngine.UI.csprojResolveAssemblyReference.cache
 E:\MyProjects\MVCBlogEngine\MVCBlogEngine.UI\obj\Debug\MVCBlogEngine.UI.dll
 E:\MyProjects\MVCBlogEngine\MVCBlogEngine.UI\obj\Debug\MVCBlogEngine.UI.pdb
