@@ -26,5 +26,18 @@ namespace MVCBlogEngine.UI.Controllers
 
             return View();
         }
+
+
+        public ActionResult Blog(string title)
+        {
+
+            return View();
+
+        }
+
+        public ActionResult Blog()
+        {
+            return View();
+        }
     }
 }
