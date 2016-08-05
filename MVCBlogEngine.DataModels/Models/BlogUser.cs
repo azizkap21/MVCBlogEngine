@@ -1,9 +1,11 @@
-﻿using System.Collections.Generic;
-namespace MVCBlodEngine.Database.Models
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace MVCBlogEngine.Database.Models
 {
-    /// <summary>
-    /// The blog user
-    /// </summary>
     public class BlogUser
     {
         /// <summary>
@@ -22,7 +24,7 @@ namespace MVCBlodEngine.Database.Models
         /// Password
         /// </summary>
         public string Password { get; set; }
-		/// <summary>
+        /// <summary>
         /// Old Password
         /// </summary>
         public string OldPassword { get; set; }

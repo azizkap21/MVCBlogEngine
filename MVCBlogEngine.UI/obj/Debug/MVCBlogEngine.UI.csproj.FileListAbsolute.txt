@@ -93,3 +93,10 @@ E:\MyProjects\MVCBlogEngine\MVCBlogEngine.UI\obj\Debug\MVCBlogEngine.UI.dll
 E:\MyProjects\MVCBlogEngine\MVCBlogEngine.UI\obj\Debug\MVCBlogEngine.UI.pdb
 E:\MyProjects\MVCBlogEngine\MVCBlogEngine.UI\bin\Owin.dll
 E:\MyProjects\MVCBlogEngine\MVCBlogEngine.UI\obj\Debug\MVCBlogEngine.UI.csprojResolveAssemblyReference.cache
+E:\MyProjects\MVCBlogEngine\MVCBlogEngine.UI\bin\MarkdownSharp.dll
+E:\MyProjects\MVCBlogEngine\MVCBlogEngine.UI\bin\SimpleInjector.dll
+E:\MyProjects\MVCBlogEngine\MVCBlogEngine.UI\bin\SimpleInjector.Integration.Web.dll
+E:\MyProjects\MVCBlogEngine\MVCBlogEngine.UI\bin\SimpleInjector.Integration.Web.Mvc.dll
+E:\MyProjects\MVCBlogEngine\MVCBlogEngine.UI\bin\SimpleInjector.xml
+E:\MyProjects\MVCBlogEngine\MVCBlogEngine.UI\bin\SimpleInjector.Integration.Web.xml
+E:\MyProjects\MVCBlogEngine\MVCBlogEngine.UI\bin\SimpleInjector.Integration.Web.Mvc.xml

@@ -1,4 +1,4 @@
-﻿namespace MVCBlodEngine.Database.Models
+﻿namespace MVCBlogEngine.Database.Models
 {
     /// <summary>
     /// Blog settings
@@ -167,7 +167,7 @@
         public bool EnableWebsiteInComments { get; set; }
         public bool ShowLivePreview { get; set; }
 
-        public BlogSettings.CommentsBy CommentProvider { get; set; }
+        //public BlogSettings.CommentsBy CommentProvider { get; set; }
         public bool DisqusDevMode { get; set; }
         public bool DisqusAddCommentsToPages { get; set; }
         public string DisqusWebsiteName { get; set; }

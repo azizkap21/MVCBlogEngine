@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace MVCBlodEngine.Database.Models
+namespace MVCBlogEngine.Database.Models
 {
     /// <summary>
     /// Blog post detail

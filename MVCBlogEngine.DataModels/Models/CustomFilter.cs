@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MVCBlodEngine.Database.Models
+namespace MVCBlogEngine.Database.Models
 {
     public class CustomFilter
     {

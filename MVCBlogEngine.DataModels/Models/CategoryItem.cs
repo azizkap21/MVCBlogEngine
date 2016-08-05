@@ -1,10 +1,11 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace MVCBlodEngine.Database.Models
+namespace MVCBlogEngine.Database.Models
 {
-    /// <summary>
-    /// Category item
-    /// </summary>
     public class CategoryItem
     {
         /// <summary>

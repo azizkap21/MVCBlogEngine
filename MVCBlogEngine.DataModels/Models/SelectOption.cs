@@ -1,4 +1,4 @@
-﻿namespace MVCBlodEngine.Database.Models
+﻿namespace MVCBlogEngine.Database.Models
 {
     /// <summary>
     /// Used for dropdowns

@@ -49,6 +49,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DataContext\IBlogContext.cs" />
     <Compile Include="Models\Blog.cs" />
     <Compile Include="Models\BlogItem.cs" />
     <Compile Include="Models\BlogUser.cs" />
@@ -75,6 +76,32 @@
     <Compile Include="Models\TagItem.cs" />
     <Compile Include="Models\TrashItem.cs" />
     <Compile Include="Models\TrashVM.cs" />
+    <Compile Include="ViewModels\BlogViewModel.cs" />
+    <Compile Include="ViewModels\BlogItemViewModel.cs" />
+    <Compile Include="ViewModels\BlogUserViewModel.cs" />
+    <Compile Include="ViewModels\CategoryItemViewModel.cs" />
+    <Compile Include="ViewModels\CommentDetailViewModel.cs" />
+    <Compile Include="ViewModels\CommentFilterItemViewModel.cs" />
+    <Compile Include="ViewModels\CommentItemViewModel.cs" />
+    <Compile Include="ViewModels\CustomFieldViewModel.cs" />
+    <Compile Include="ViewModels\CustomFilterViewModel.cs" />
+    <Compile Include="ViewModels\EditorOptionsViewModel.cs" />
+    <Compile Include="ViewModels\Enums.cs" />
+    <Compile Include="ViewModels\JsonResponse.cs" />
+    <Compile Include="ViewModels\Lookups.cs" />
+    <Compile Include="ViewModels\Package.cs" />
+    <Compile Include="ViewModels\PageDetail.cs" />
+    <Compile Include="ViewModels\PageItem.cs" />
+    <Compile Include="ViewModels\PostDetail.cs" />
+    <Compile Include="ViewModels\PostItem.cs" />
+    <Compile Include="ViewModels\Profile.cs" />
+    <Compile Include="ViewModels\Security.cs" />
+    <Compile Include="ViewModels\SelectOptionViewModel.cs" />
+    <Compile Include="ViewModels\Settings.cs" />
+    <Compile Include="ViewModels\Stats.cs" />
+    <Compile Include="ViewModels\TagItem.cs" />
+    <Compile Include="ViewModels\TrashItem.cs" />
+    <Compile Include="ViewModels\TrashVM.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

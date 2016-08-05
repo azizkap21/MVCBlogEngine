@@ -1,8 +1,11 @@
-﻿namespace MVCBlodEngine.Database.Models
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace MVCBlogEngine.Database.Models
 {
-    /// <summary>
-    /// Blog item
-    /// </summary>
     public class BlogItem
     {
         /// <summary>

@@ -1,5 +1,5 @@
 ﻿using System;
-namespace MVCBlodEngine.Database.Models
+namespace MVCBlogEngine.Database.Models
 {
     /// <summary>
     /// Class that represents custom field
@@ -34,12 +34,12 @@ namespace MVCBlodEngine.Database.Models
         /// <summary>
         /// Used to assign key to HTML controls when edit field in admin
         /// </summary>
-        public string ControlId
-        {
-            get
-            {
-                return Utils.RemoveIllegalCharacters(Key);
-            }
-        }
+        //public string ControlId
+        //{
+        //    get
+        //    {
+        //        return Utils.RemoveIllegalCharacters(Key);
+        //    }
+        //}
     }
 }

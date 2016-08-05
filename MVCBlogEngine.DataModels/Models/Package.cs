@@ -1,5 +1,5 @@
 ﻿using System;
-namespace MVCBlodEngine.Database.Models
+namespace MVCBlogEngine.Database.Models
 {
     /// <summary>
     /// Install package
@@ -91,7 +91,7 @@ namespace MVCBlodEngine.Database.Models
         /// <summary>
         /// Package extended data
         /// </summary>
-        public PackageExtra Extra { get; set; }
+        //public PackageExtra Extra { get; set; }
 
         static int ConvertVersion(string version)
         {
