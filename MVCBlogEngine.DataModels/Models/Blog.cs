@@ -17,14 +17,19 @@ namespace MVCBlogEngine.Database.Models
         public bool IsChecked { get; set; }
 
         /// <summary>
+        /// Blog Row Id
+        /// </summary>
+        public int BlogRowId { get; set; }
+
+        /// <summary>
         /// Blog ID
         /// </summary>
-        public Guid Id { get; set; }
+        public Guid BlogId { get; set; }
 
         /// <summary>
         /// Blog name
         /// </summary>
-        public string Name { get; set; }
+        public string BlogName { get; set; }
 
         /// <summary>
         /// Virtual Path.

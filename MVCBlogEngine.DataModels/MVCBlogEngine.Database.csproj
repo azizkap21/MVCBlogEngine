@@ -50,6 +50,34 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DataContext\IBlogContext.cs" />
+    <Compile Include="Entity\BlogRollItems.cs" />
+    <Compile Include="Entity\Blogs.cs" />
+    <Compile Include="Entity\Categories.cs" />
+    <Compile Include="Entity\CustomFields.cs" />
+    <Compile Include="Entity\DataStoreSettings.cs" />
+    <Compile Include="Entity\FileStoreDirectory.cs" />
+    <Compile Include="Entity\FileStoreFiles.cs" />
+    <Compile Include="Entity\FileStoreFileThumbs.cs" />
+    <Compile Include="Entity\PackageFiles.cs" />
+    <Compile Include="Entity\Packages.cs" />
+    <Compile Include="Entity\Pages.cs" />
+    <Compile Include="Entity\PingService.cs" />
+    <Compile Include="Entity\PostCategory.cs" />
+    <Compile Include="Entity\PostComment.cs" />
+    <Compile Include="Entity\PostNotify.cs" />
+    <Compile Include="Entity\Posts.cs" />
+    <Compile Include="Entity\PostTag.cs" />
+    <Compile Include="Entity\Profiles.cs" />
+    <Compile Include="Entity\QuickNotes.cs" />
+    <Compile Include="Entity\QuickSettings.cs" />
+    <Compile Include="Entity\Referrers.cs" />
+    <Compile Include="Entity\RightRoles.cs" />
+    <Compile Include="Entity\Rights.cs" />
+    <Compile Include="Entity\Roles.cs" />
+    <Compile Include="Entity\Settings.cs" />
+    <Compile Include="Entity\StopWords.cs" />
+    <Compile Include="Entity\UserRoles.cs" />
+    <Compile Include="Entity\Users.cs" />
     <Compile Include="Models\Blog.cs" />
     <Compile Include="Models\BlogItem.cs" />
     <Compile Include="Models\BlogUser.cs" />
